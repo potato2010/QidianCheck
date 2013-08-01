@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/CheckBook?bookID=1890269</url>
+    <description>check every 5 minutes</description>
+    <schedule>every 5 minutes</schedule>
+    <timezone>Asia/Shanghai</timezone>
+  </cron>
+</cronentries>
